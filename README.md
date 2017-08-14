@@ -7,7 +7,7 @@ The scene of the game or the <strong>"universe"</strong> - is a space, divided i
 * any live cell with more than three live neighbours dies, as if by overpopulation.
 * any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
-As a participant of the Web Development Championship (standard category) <u>my task was the following</u>:
+As a participant of the Web Development Championship (standard category) +my task was the following+:
 
 1) Recreate the algorithm using JavaScript
 2) Graphical implementation of the "universe". The scene of the game is 200x200 cells;
