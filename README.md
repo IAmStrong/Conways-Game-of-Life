@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-The scene of the game or the <strong>"universe"</strong> - is a space, divided into <strong>cells</strong>. Each cell has either one of two states: it could be <strong>alive</strong> or it could be <strong>dead</strong>. The cell has <strong>eight neighbors</strong>. Every next generation is formed upon the basis of the preceding one following the strict <strong>rules</strong>:
+The scene of the game or the <strong>"universe"</strong> - is a space, divided into <strong>cells</strong>. Each cell has either one of two states: it could be <strong>alive</strong> or it could be <strong>dead</strong>. The cell has eight <strong>neighbors</strong>. Every next <strong>generation</strong> is formed upon the basis of the preceding one following the strict <strong>rules</strong>:
 
 * any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
 * any live cell with two or three live neighbours lives on to the next generation.
