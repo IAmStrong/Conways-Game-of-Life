@@ -18,4 +18,4 @@ As a participant of the Web Development Championship (standard category) my task
 
 My work was appreciated by the Judges, therefore I got to the semi-final of the Championship.
 
-You can read the championship's official task following the *next* [link](https://iamstrong.github.io/files/front-end-developer-javascript-qualification-task-dev-challenge-11-1.pdf).
+You can read the championship's official task following the next *[link](https://iamstrong.github.io/files/front-end-developer-javascript-qualification-task-dev-challenge-11-1.pdf)*.
